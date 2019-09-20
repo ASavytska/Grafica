@@ -1,0 +1,2 @@
+# Grafica
+Interfaz gráfica
